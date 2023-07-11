@@ -1,0 +1,36 @@
+<div class="navigation" id="navigation">
+      <nav class="navbar navbar-expand-lg custom_nav ">
+         <div class="container">
+           
+            <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+               aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
+               class="navbar-toggler"><span style="color:black"><i class="fa fa-bars"></i></span></button>
+
+            <div id="navbarSupportedContent" class="collapse navbar-collapse div_ul">
+               <ul class="navbar-nav ml-auto" data-aos="fade-down">
+                  <li class="nav-item active"><a href="" class="nav-link ">Home</a></li>
+                  <!-- <li class="nav-item"><a href="team.html" class="nav-link text-dark">Team</a></li> -->
+                  <li class="nav-item"><a href="visits.html" class="nav-link text-dark">Visits</a></li>
+                  <li class="nav-item"><a href="gallery.html" class="nav-link text-dark">Gallery</a></li>
+                  <li class="nav-item"><a href="project.html" class="nav-link text-dark">Projects</a></li>
+                  <div class="dropdown nav-item active">
+                     <li class="dropdown-toggle mt-2" type="" id="dropdownMenuButton" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false" style="cursor:pointer;">
+                        Departments
+                     </li>
+                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="ce.html">Computer Engineering</a>
+                        <a class="dropdown-item" href="etc.html">Electronics & Telecommunication Engineering</a>
+                        <a class="dropdown-item" href="it.html">Information Technology</a>
+                        <a class="dropdown-item" href="ee.html">Electrical Engineering</a>
+                        <a class="dropdown-item" href="civil.html">Civil Engineering</a>
+                        <a class="dropdown-item" href="me.html">Mechenical Engineering</a>
+                     </div>
+                  </div>
+                  <li class="nav-item"><a href="contact-us.html" class="nav-link text-dark">Contact-Us</a></li>
+               </ul>
+            </div>
+         </div>
+      </nav>
+
+   </div>
